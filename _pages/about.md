@@ -22,7 +22,7 @@ I am Nengbo Lu, currently an undergraduate student studying at the School of Art
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026(CCF-B)!
-- *2022.03*: &nbsp;🎉🎉 One paper has been accepted by ICMR 2026(CCF-B)!
+- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICMR 2026(CCF-B)!
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

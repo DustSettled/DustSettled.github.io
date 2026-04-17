@@ -23,6 +23,7 @@ I am Nengbo Lu, currently an undergraduate student studying at the School of Art
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted by ICMR 2026(CCF-B)!
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026(CCF-B)!
+- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by MMM 2026(CCF-C)!
 
 # 💻 Internships
 - *2025.08 - 2025.11*, Interned as an Embodied Intelligence Engineer at Independent Variable Robotics.

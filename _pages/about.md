@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Nengbo Lu, currently an undergraduate student studying at the School of Artificial Intelligence, Guilin University of Electronic Technology. My main research interests lie in the intersection of Computer Vision and Computer Graphics, with a core focus on 3D Reconstruction and Scene Understanding. I am dedicated to solving high-fidelity 3D reconstruction in complex scenes and the physical consistency of dynamic 3D scenes. Currently, I have published multiple academic papers in top international conferences and journals in the fields of multimedia and computer vision, including ACM ICMR (CCF-B) and IEEE ICME (CCF-B). In the future, I will continue to explore cutting-edge 3D vision technologies, committed to promoting the application and development in fields such as virtual reality, digital twins, and embodied AI.
+Nengbo Lu. I am currently an undergraduate student at the School of Artificial Intelligence, Guilin University of Electronic Technology. My main research direction is the intersection of Computer Vision and Computer Graphics, with a core focus on 3D Reconstruction and 3D Scene Understanding. I am dedicated to solving the problems of high-fidelity 3D reconstruction in complex scenes and the physical consistency of dynamic 3D scenes. Currently, during my undergraduate period, I have published multiple academic papers in top international conferences and journals in the fields of multimedia and computer vision, including ACM ICMR (CCF-B) and IEEE ICME (CCF-B), etc. In the future, I will continue to explore cutting-edge 3D vision technologies, committed to promoting the application and development of fields such as virtual reality, digital twins, and embodied AI.
 
 
 # 🔥 News
